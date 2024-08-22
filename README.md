@@ -14,3 +14,7 @@ HDRI file is not included in the project file. Please import your HDRI file.
 <a href="https://www.gwangyulee.com/p/ixr-osc-ndi-tutorial-kr.html" target="_blank">iXR OSC & NDI & TouchDesigner 튜토리얼</a>    
 
 ## Download
+Released on the Apple App Store.    
+<a href="https://apps.apple.com/us/app/ixr-osc-ndi/id6642664920" target="_blank">Apple App Store</a>   
+
+<img width="400" alt="appstore" src="https://github.com/user-attachments/assets/92924839-46cb-4fea-a24f-ac4e19f58139">

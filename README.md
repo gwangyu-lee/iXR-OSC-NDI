@@ -1,7 +1,7 @@
 # iXR-OSC-NDI
 An application receives 360 videos and sends hand-tracking data.    
 
-![Untitled](https://github.com/user-attachments/assets/c7b6e0f5-901b-481f-9a32-5da4ff8f3635)
+![preview v1 1 2](https://github.com/user-attachments/assets/5ca7fa35-0919-4d39-949d-3c7194887278)
 
 ## Note
 It is recommended to use a video resolution of 4096 x 2048.    
